@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Strength. Discipline. Beauty.
+subtitle: Dance. Discover. Delight.
 
 profile:
   align: right
