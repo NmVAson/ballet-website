@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We're starting classes on July 20!
+We're starting classes on July 20! ✨
