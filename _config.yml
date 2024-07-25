@@ -8,7 +8,7 @@ middle_name: E.
 last_name: Taylor
 email: giuliana@hey.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+
 footer_text: >
   Made with ♡ by NmVAson
 keywords: ballet, beginner, dance, class, technique, resources # add your own keywords or leave empty
@@ -109,7 +109,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: 
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
