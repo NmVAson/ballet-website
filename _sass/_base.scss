@@ -1137,9 +1137,17 @@ ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
 }
 
-// newsletter
+// forms
+.form-container,
 .newsletter-form-container {
   margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
 }
 
 .newsletter-form {
@@ -1149,6 +1157,7 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 100%;
 }
 
+.form-input,
 .newsletter-form-input,
 .bibsearch-form-input {
   color: var(--global-newsletter-text-color);
@@ -1165,10 +1174,12 @@ ninja-keys::part(ninja-input-wrapper) {
   padding: 8px 12px;
 }
 
+.form-input:focus,
 .newsletter-form-input:focus {
   border-color: var(--global-theme-color) !important;
 }
 
+.form-button,
 .newsletter-form-button {
   background: var(--global-theme-color);
   color: var(--global-bg-color);
@@ -1190,6 +1201,7 @@ ninja-keys::part(ninja-input-wrapper) {
   cursor: pointer;
 }
 
+.loading-button,
 .newsletter-loading-button {
   background: var(--global-theme-color);
   color: var(--global-bg-color);
@@ -1212,6 +1224,7 @@ ninja-keys::part(ninja-input-wrapper) {
   margin-right: 20px;
 }
 
+.success,
 .newsletter-success {
   color: var(--global-text-color);
   display: none;
@@ -1219,6 +1232,7 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 100%;
 }
 
+.error,
 .newsletter-error {
   color: var(--global-theme-color);
   display: none;
@@ -1226,6 +1240,7 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 100%;
 }
 
+.back-button,
 .newsletter-back-button {
   color: var(--global-theme-color);
   margin: 10px auto;
