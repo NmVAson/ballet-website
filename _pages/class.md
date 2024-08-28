@@ -5,7 +5,7 @@ title: Class List
 description: Explore our diverse class offerings designed to meet the needs of dancers of all ages and skill levels.
 updated: August 13, 2024
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 ## Pre-Ballet
