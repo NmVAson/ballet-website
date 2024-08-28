@@ -10,6 +10,9 @@ let toggleThemeSetting = () => {
   } else {
     setThemeSetting("system");
   }
+
+  const theme = document.documentElement.getAttribute("data-theme");
+  updateLogoBasedOnTheme(theme);
 };
 
 // Change the theme setting and apply the theme.
@@ -80,6 +83,18 @@ let applyTheme = () => {
     medium_zoom.update({
       background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
     });
+  }
+};
+
+let updateLogoBasedOnTheme = (theme) => {
+  const imageElement = document.getElementById("logo");
+  const imageUrlLight = "/assets/img/logo.png";
+  const imageUrlDark = "/assets/img/dark/logo.png";
+
+  if (theme === 'dark') {
+    imageElement.src = imageUrlDark;
+  } else {
+    imageElement.src = imageUrlLight;
   }
 };
 

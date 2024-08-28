@@ -3,34 +3,22 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="logo profile {% if profile.align == 'left' %}float-left{% elsif profile.align == center %}w-100{% else %}float-right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% assign profile_image_class = 'img-fluid rounded-circle' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
+            {% assign profile_image_class = 'img-fluid rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
+          <img id="logo" src="{{ profile_image_path }}" class="{{ profile_image_class }}" width="100%" height="auto" alt="{{ page.profile.image }}" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>

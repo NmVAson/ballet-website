@@ -129,8 +129,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Ballet Resources # blog_name will be displayed in your blog page
-blog_description: Your go-to resource for class techniques, vocabulary, and tips to begin your ballet journey.
+blog_name: "The Ballet Studio: Tips, Techniques, and Inspiration" # blog_name will be displayed in your blog page
+blog_description: Dive into the world of ballet with our blog, offering expert advice, detailed guides, and inspiration for dancers of all levels. From foundational techniques to performance tips, explore resources designed to enhance your journey in the art of dance.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -302,7 +302,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["uniform", "technique", "vocab"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /registration/
-title: Registration
+title: Register
 description:
 nav: true
 nav_order: 2
