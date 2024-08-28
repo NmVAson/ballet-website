@@ -14,7 +14,7 @@ Our Pre-Ballet course is designed for young children aged 3-6, providing a joyfu
 [Let us know you're coming ⟶](/reservations)
 
 ## Level 1 Ballet 
-###### Every Monday, 9 am @ [Fitmax](https://maps.app.goo.gl/JBXejqFpaZuqY8uq5)
+###### Every Monday, 5 pm @ [Fitmax](https://maps.app.goo.gl/JBXejqFpaZuqY8uq5)
 Our Ballet Level 1 class is perfect for young dancers who have completed our Pre-Ballet course or older elementary school students who are new to ballet. This class introduces a broader range of ballet techniques and vocabulary, helping students build on their foundational skills. With a focus on developing strength, coordination, and musicality, Ballet Level 1 provides a supportive environment for students to grow as dancers and deepen their love for ballet.  
 [Let us know you're coming ⟶](/reservations)
 
