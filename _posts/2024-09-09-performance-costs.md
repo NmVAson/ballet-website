@@ -9,7 +9,7 @@ thumbnail: assets/img/stage.jpg
 
 When enrolling your child in dance, it’s easy to get swept up in the excitement of recitals and performances. However, many families are surprised by the hidden costs that can quickly add up—costs that aren’t always made clear up front. From hair and makeup to costumes and accessories, dance performances can be an expensive undertaking.
 
-At our studio, we believe in full transparency and in being good stewards of our students' parents’ money. We understand that dance is an investment, and we want to make sure you know exactly what you’re signing up for. By providing clear information about potential costs, we aim to help families plan ahead without unexpected surprises.
+At our studio, we believe in full transparency and in being good stewards of your money. We understand that dance is an investment, and we want to make sure you know exactly what you’re signing up for. By providing clear information about potential costs, we aim to help families plan ahead without unexpected surprises.
 
 Below, we’ve compiled a list of potential expenses related to our upcoming **"Debut"** performance, including hair and makeup supplies, dance attire, and costume costs. By breaking down these expenses, we hope to make the financial commitment clear and manageable. Here’s what you can expect:
 
