@@ -5,6 +5,7 @@ description: Learn the key differences between barre and ballet classes, and whe
 author: Giuliana Taylor  
 tags: ballet, barre, fitness, dance
 featured: true
+thumbnail: assets/img/barrevballet.webp
 ---
 
 If you’ve ever searched for a dance-inspired workout or are looking to explore the world of ballet, you’ve likely come across both ballet and barre classes. While they share some similarities, these two types of classes offer distinct experiences. Whether you’re working toward fitness goals or honing your dance technique, understanding the differences between barre and ballet will help you make the right choice for your needs.
