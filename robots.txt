@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: somersetballet.com/sitemap.xml
+Sitemap: https://somersetballet.com/sitemap.xml
