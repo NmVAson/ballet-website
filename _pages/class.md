@@ -30,7 +30,7 @@ Our Ballet Level 1 class is perfect for young dancers who have completed our Pre
 
 ###### Every Monday, 6 pm @ [Fitmax](https://maps.app.goo.gl/JBXejqFpaZuqY8uq5)
 
-Our Ballet Level 2 class is designed for dancers who have mastered the fundamentals of Level 1 and are ready to take on more challenging techniques and combinations. This class focuses on refining basic movements, increasing strength, and introducing more complex steps like turns, jumps, and advanced barre work. Students will also explore musicality and expression, learning to connect movements fluidly while developing a deeper understanding of ballet vocabulary. Ballet Level 2 offers a dynamic and encouraging environment for young dancers to continue their progression, building the confidence and discipline needed for further advancement in ballet.
+Our Ballet Level 2 class is designed for dancers who have mastered the fundamentals of Level 1 and are ready to take on more challenging techniques and combinations. This class focuses on refining basic movements, increasing strength, and introducing more complex steps like turns, jumps, and advanced barre work. Students will also explore musicality and expression, learning to connect movements fluidly while developing a deeper understanding of ballet vocabulary. Ballet Level 2 offers a dynamic and encouraging environment for young dancers to continue their progression, building the confidence and discipline needed for further advancement in ballet.  
 [Check out the syllabus ⟶](/ballet-2)
 
 ## Adult Intro to Ballet
