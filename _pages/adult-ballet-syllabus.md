@@ -3,7 +3,7 @@ layout: page
 permalink: /adult-ballet/  
 title: Adult Ballet Class  
 description: Our Adult Ballet class offers 45 minutes of barre work, refining technique through individual feedback and instruction in a fun, supportive atmosphere.  
-updated: September 23, 2024  
+updated: true
 nav: false
 ---
 

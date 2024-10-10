@@ -3,7 +3,7 @@ layout: page
 permalink: /pre-ballet/
 title: Pre-Ballet Syllabus
 description: Our Pre-Ballet class introduces young dancers to the basics of ballet with fun exercises, creative choreography, and prop play, fostering a love for dance while building foundational skills.
-updated: September 23, 2024
+updated: true
 nav: false
 ---
 ## Pre-Ballet

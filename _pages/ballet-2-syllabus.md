@@ -3,7 +3,7 @@ layout: page
 permalink: /ballet-2/
 title: Level 2 Ballet Syllabus
 description: Our Level 2 Ballet class challenges students with advanced techniques, strengthening exercises, and complex combinations, preparing them for higher levels of dance.
-updated: October 9, 2024
+updated: true
 nav: false
 ---
 

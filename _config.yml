@@ -256,6 +256,7 @@ plugins:
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
+  - jekyll-last-modified-at
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -639,3 +640,9 @@ jsonresume:
   - languages
   - interests
   - references
+
+#
+# Last Modified At Plugin - https://github.com/gjtorikian/jekyll-last-modified-at
+#
+last-modified-at:
+  date-format: '%B %-d, %Y'

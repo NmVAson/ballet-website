@@ -3,7 +3,7 @@ layout: page
 permalink: /ballet-1/  
 title: Level 1 Ballet Syllabus  
 description: Our Level 1 Ballet class introduces students to foundational ballet techniques, terminology, and exercises, helping them build strength, flexibility, and musicality in a supportive environment.  
-updated: September 23, 2024  
+updated: true
 nav: false
 ---
 ## Level 1 Ballet
