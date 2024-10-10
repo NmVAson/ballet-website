@@ -52,9 +52,13 @@ GEM
       loofah (>= 2.3.1, < 3)
       sax-machine (>= 1.0, < 2)
     ffi (1.17.0-x64-mingw-ucrt)
+    ffi (1.17.0-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     google-protobuf (4.28.2-x64-mingw-ucrt)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.28.2-x86_64-linux)
       bigdecimal
       rake (>= 13)
     html-pipeline (2.14.3)
@@ -137,6 +141,8 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     latex-decode (0.4.0)
+    libv8-node (18.19.0.0)
+    libv8-node (18.19.0.0-x86_64-linux)
     liquid (4.0.4)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -148,12 +154,16 @@ GEM
     matrix (0.4.2)
     mercenary (0.4.0)
     mini_mime (1.1.5)
+    mini_racer (0.16.0)
+      libv8-node (~> 18.19.0.0)
     minitest (5.25.1)
     multi_xml (0.7.1)
       bigdecimal (~> 3.1)
     namae (1.2.0)
       racc (~> 1.7)
     nokogiri (1.16.7-x64-mingw-ucrt)
+      racc (~> 1.4)
+    nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -167,6 +177,8 @@ GEM
     rouge (4.4.0)
     safe_yaml (1.0.5)
     sass-embedded (1.79.4-x64-mingw-ucrt)
+      google-protobuf (~> 4.27)
+    sass-embedded (1.79.4-x86_64-linux-gnu)
       google-protobuf (~> 4.27)
     sax-machine (1.3.2)
     securerandom (0.3.1)
@@ -182,6 +194,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   classifier-reborn
@@ -206,6 +219,8 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  mini_racer
+  rexml (= 3.3.8)
   unicode_utils
   webrick
 
