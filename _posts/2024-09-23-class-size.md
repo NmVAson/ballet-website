@@ -6,6 +6,7 @@ author: Giuliana Taylor
 tags: class-size, learning
 featured: true
 ---
+
 Ballet is unique in the way it fosters both individual and collective growth in class. One of the most valuable aspects of ballet is that, regardless of class size, a skilled instructor will provide 1-on-1 corrections that benefit everyone. In ballet, even when a correction is made to one dancer, it’s really a lesson for all to absorb and apply. A good correction helps not just the individual, but the entire class move toward better technique and artistry.
 
 At Somerset School of Ballet, we take this personal approach a step further. We intentionally cap our class sizes to ensure that each student receives even more focused, semi-private attention. By keeping classes small, our instructors have the opportunity to interact with every student, helping them refine their movements, adjust posture, or improve technique in a way that is tailored to their needs.

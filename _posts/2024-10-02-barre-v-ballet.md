@@ -1,8 +1,8 @@
 ---
-layout: post  
+layout: post
 title: "Ballet vs. Barre: Choosing the Right Class for Your Goals"
-description: Learn the key differences between barre and ballet classes, and when each is the right choice for your fitness or dance journey.  
-author: Giuliana Taylor  
+description: Learn the key differences between barre and ballet classes, and when each is the right choice for your fitness or dance journey.
+author: Giuliana Taylor
 tags: ballet, barre, fitness, dance
 featured: true
 thumbnail: assets/img/barrevballet.webp
@@ -29,21 +29,21 @@ Ballet classes are ideal if you’re interested in learning the art of dance, de
 The choice between a barre class and a ballet class depends on your personal goals:
 
 - **Choose a Barre Class if:**
-    - You’re seeking a fitness-focused workout.
-    - You want to tone and strengthen major muscle groups like legs, glutes, and core.
-    - You’re looking for low-impact exercise that incorporates elements of dance.
-    - You’re new to fitness and want a welcoming, non-intimidating environment.
+
+  - You’re seeking a fitness-focused workout.
+  - You want to tone and strengthen major muscle groups like legs, glutes, and core.
+  - You’re looking for low-impact exercise that incorporates elements of dance.
+  - You’re new to fitness and want a welcoming, non-intimidating environment.
 
 - **Choose a Ballet Class if:**
-    - You’re passionate about learning dance technique.
-    - You want to develop posture, balance, and grace by working both major and minor muscle groups.
-    - You’re interested in progressing through levels of ballet or even performing.
-    - You’re looking for both mental and physical challenges, as ballet combines artistry with technique.
-    - Six-year-old you always wanted to take a ballet class, but your parents signed you up for soccer instead 😉
+  - You’re passionate about learning dance technique.
+  - You want to develop posture, balance, and grace by working both major and minor muscle groups.
+  - You’re interested in progressing through levels of ballet or even performing.
+  - You’re looking for both mental and physical challenges, as ballet combines artistry with technique.
+  - Six-year-old you always wanted to take a ballet class, but your parents signed you up for soccer instead 😉
 
 ### **Complementary Practices**
 
 It’s worth noting that ballet and barre don’t have to be mutually exclusive. Many dancers use barre classes as a form of cross-training to strengthen muscles that support their dance practice. Likewise, those who fall in love with the grace and precision of barre might find themselves inspired to dive deeper into the art of ballet.
 
 Both barre and ballet have incredible benefits, and the best part is that you can enjoy either (or both!) depending on where you are in your fitness or dance journey.
-

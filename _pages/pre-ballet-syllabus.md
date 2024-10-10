@@ -6,8 +6,11 @@ description: Our Pre-Ballet class introduces young dancers to the basics of ball
 updated: true
 nav: false
 ---
+
 ## Pre-Ballet
+
 ###### Every Saturday, 9 am @ [Fitmax](https://maps.app.goo.gl/JBXejqFpaZuqY8uq5)
+
 Our Pre-Ballet course is designed for young children around ages 3-6, providing a joyful introduction to the world of ballet. This class focuses on developing motor skills, musicality, and basic ballet movements through creative dance and imaginative play. With an emphasis on fun and exploration, children will learn the fundamentals of ballet while building confidence, coordination, and a love for dance.
 
 **What to Expect in Pre-Ballet**

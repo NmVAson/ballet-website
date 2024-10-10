@@ -1,10 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Owner / Instructor 
+    - name: Owner / Instructor
       value: Giuliana Taylor
     - name: Location
-      value: Somerset, KY 
+      value: Somerset, KY
 
 - title: Home Studio
   type: time_table
@@ -99,4 +99,3 @@
     - title: The Nutcracker
       year: 2003 - 2010
       description: Soloist performances as Sugar Plum Fairy, Dew Drop Fairy, Spanish Sweet, Italian Sweet, Chinese sweet, Rat King, Harlequin
-

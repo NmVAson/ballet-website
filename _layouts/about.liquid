@@ -18,7 +18,16 @@ layout: default
           {% endif %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
-          <img id="logo" src="{{ profile_image_path }}" class="{{ profile_image_class }}" width="100%" height="auto" alt="{{ page.profile.image }}" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+          <img
+            id="logo"
+            src="{{ profile_image_path }}"
+            class="{{ profile_image_class }}"
+            width="100%"
+            height="auto"
+            alt="{{ page.profile.image }}"
+            loading="eager"
+            onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+          >
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>

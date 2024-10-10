@@ -645,4 +645,4 @@ jsonresume:
 # Last Modified At Plugin - https://github.com/gjtorikian/jekyll-last-modified-at
 #
 last-modified-at:
-  date-format: '%B %-d, %Y'
+  date-format: "%B %-d, %Y"
