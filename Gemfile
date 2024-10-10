@@ -19,7 +19,8 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+#     gem 'libv8-node', '~> 21.7.2'
+#     gem 'mini_racer', '~> 0.12.0'
     gem 'unicode_utils'
     gem 'webrick'
 end
