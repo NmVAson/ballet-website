@@ -32,6 +32,7 @@ let applyTheme = () => {
   setHighlight(theme);
   setGiscusTheme(theme);
   setSearchTheme(theme);
+  updateLogoBasedOnTheme(theme);
 
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
@@ -88,6 +89,8 @@ let applyTheme = () => {
 
 let updateLogoBasedOnTheme = (theme) => {
   const imageElement = document.getElementById("logo");
+  if(!imageElement) return;
+
   const imageUrlLight = "/assets/img/logo.png";
   const imageUrlDark = "/assets/img/dark/logo.png";
 
