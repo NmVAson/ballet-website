@@ -17,11 +17,12 @@ module Jekyll
 
       # Adds the site source, so that it also works with a custom one
       site_source = context.registers[:site].config['source']
-      file_path = site_source + '/' + url
+      file_path = File.join(site_source, url)
 
       # ensure it works even if the file does not exist (yet), for tags
       begin
-        File.mtime(file_path.strip!) # last modified date
+        last_modified_time = File.mtime(file_path) # Get the last modified time
+        last_modified_time.strftime("%B %-d, %Y")
       rescue
 		"" # if exception, return empty string
 	  end
