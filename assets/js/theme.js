@@ -253,11 +253,13 @@ let initTheme = () => {
   let themeSetting = determineThemeSetting();
 
   setThemeSetting(themeSetting);
-  updateLogoBasedOnTheme(themeSetting);
 
   // Add event listener to the theme toggle button.
   document.addEventListener("DOMContentLoaded", function () {
     const mode_toggle = document.getElementById("light-toggle");
+
+    let themeSetting = determineThemeSetting();
+    updateLogoBasedOnTheme(themeSetting);
 
     mode_toggle.addEventListener("click", function () {
       toggleThemeSetting();
