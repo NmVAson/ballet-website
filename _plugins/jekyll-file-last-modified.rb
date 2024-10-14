@@ -21,8 +21,7 @@ module Jekyll
 
       # ensure it works even if the file does not exist (yet), for tags
       begin
-        last_modified_time = File.mtime(file_path) # Get the last modified time
-        last_modified_time.strftime("%B %-d, %Y")
+        File.mtime(file_path) # Get the last modified time
       rescue
 		"" # if exception, return empty string
 	  end
