@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+## This world has space for the dreams of every child.
+
 Welcome to Somerset School of Ballet, a young and growing studio where **dance is accessible to all**. We blend an academic approach with a focus on learning and enjoyment, nurturing dancers of **all ages and skill levels** in a supportive environment.
 
 ## Your Instructor
