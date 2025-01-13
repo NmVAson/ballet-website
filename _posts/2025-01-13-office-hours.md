@@ -1,3 +1,7 @@
+---
+layout: post
+thumbnail: assets/img/office.png
+---
 # How to Make the Most of Office Hours at the Studio  
 
 As we gear up for the performance, I’m excited to offer **Office Hours** as a flexible way for dancers to get one-on-one or small-group rehearsal time without needing a full private session. Whether you're using this time to clean up choreography, work on entrances, or ask clarifying questions, here’s a guide to help you understand how to sign up, what to expect, and how to come prepared so you make the most of your session.  
