@@ -1,5 +1,6 @@
 ---
 layout: post
+description: In this post, learn about Somerset School of Ballet's new office hours—designed to give dancers personalized support during Debut rehearsals, with opportunities to refine technique, ask questions, and get quick feedback.
 thumbnail: assets/img/office-hours.jpeg
 ---
 # How to Make the Most of Office Hours at the Studio 
