@@ -1,21 +1,21 @@
 FROM ruby:latest
-ENV DEBIAN_FRONTEND noninteractive
+ENV DEBIAN_FRONTEND=noninteractive
 
-Label MAINTAINER Amir Pourmand
+LABEL MAINTAINER="Giuliana Taylor"
 
+# Install dependencies including Node.js
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
     locales \
     imagemagick \
     build-essential \
     zlib1g-dev \
     jupyter-nbconvert \
-    inotify-tools procps && \
+    inotify-tools procps \
+    nodejs && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
-
 
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
     locale-gen
-
 
 ENV LANG=en_US.UTF-8 \
     LANGUAGE=en_US:en \
@@ -33,7 +33,7 @@ WORKDIR /srv/jekyll
 RUN gem install jekyll bundler
 
 RUN bundle install --no-cache
-# && rm -rf /var/lib/gems/3.1.0/cache
+
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
