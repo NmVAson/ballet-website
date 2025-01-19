@@ -37,9 +37,3 @@ While progress has been made, there’s still work to be done. Here are some way
 
 At Somerset School of Ballet, we believe that every dancer deserves the chance to shine. By fostering an inclusive environment and celebrating diversity, we hope to inspire a new generation of dancers who will carry ballet into a brighter, more inclusive future.
 
----
-
-**Related Posts**\
-[Honoring MLK Day: Celebrating Black Ballerinas in Ballet History](/blog/mlk-day-black-ballerinas)\
-[Tips for Aspiring Young Dancers](/blog/young-dancers-tips)
-
