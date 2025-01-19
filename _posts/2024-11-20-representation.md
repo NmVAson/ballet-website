@@ -5,7 +5,7 @@ tags: [Representation, DiversityInBallet, BalletInclusion, BalletHistory]
 featured: true
 thumbnail: assets/img/representation_in_ballet.jpg
 description: Discover why representation in ballet matters for expanding narratives, inspiring young dancers, fostering creativity, and building a more inclusive community.
-title: Representation in Ballet: Why It Matters
+title: "Representation in Ballet: Why It Matters"
 ---
 
 # Representation in Ballet: Why It Matters
