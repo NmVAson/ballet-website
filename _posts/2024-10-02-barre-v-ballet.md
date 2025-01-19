@@ -4,7 +4,6 @@ title: "Ballet vs. Barre: Choosing the Right Class for Your Goals"
 description: Learn the key differences between barre and ballet classes, and when each is the right choice for your fitness or dance journey.
 author: Giuliana Taylor
 tags: ballet, barre, fitness, dance
-featured: true
 thumbnail: assets/img/barrevballet.webp
 ---
 

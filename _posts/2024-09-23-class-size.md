@@ -4,7 +4,6 @@ title: Why We Cap Class Sizes at Somerset School of Ballet
 description: Discover how Somerset School of Ballet provides personalized instruction by capping class sizes for a semi-private experience.
 author: Giuliana Taylor
 tags: class-size, learning
-featured: true
 ---
 
 Ballet is unique in the way it fosters both individual and collective growth in class. One of the most valuable aspects of ballet is that, regardless of class size, a skilled instructor will provide 1-on-1 corrections that benefit everyone. In ballet, even when a correction is made to one dancer, it’s really a lesson for all to absorb and apply. A good correction helps not just the individual, but the entire class move toward better technique and artistry.
