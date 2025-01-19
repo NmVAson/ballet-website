@@ -41,10 +41,12 @@ body.sticky-bottom-footer {
 // TODO: redefine content layout.
 
 /******************************************************************************
- * Publications
+ * Posts
  ******************************************************************************/
 
-// TODO: redefine publications layout.
+.post-content p img {
+  max-width: 10em;
+}
 
 /*****************************************************************************
 * Projects
