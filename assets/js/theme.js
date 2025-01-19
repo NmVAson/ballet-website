@@ -89,7 +89,7 @@ let applyTheme = () => {
 
 let updateLogoBasedOnTheme = (theme) => {
   const imageElement = document.getElementById("logo");
-  if(!imageElement) return;
+  if (!imageElement) return;
 
   const imageUrlLight = "/assets/img/logo.png";
   const imageUrlDark = "/assets/img/dark/logo.png";

@@ -15,6 +15,7 @@ As students progress in their ballet journey, many dream of dancing en pointe. H
 ### **Regular Ballet Class: Building Foundations**
 
 In a regular ballet class, dancers focus on developing the foundations of ballet technique. Through barre, center practice, and across-the-floor exercises, dancers improve:
+
 - **Coordination and musicality**
 - **Strength and flexibility**
 - **Ballet vocabulary and technique**
@@ -26,6 +27,7 @@ These classes focus on core movements like pliés, tendus, jumps, and turns, aim
 ### **Preparation for Pointe Class: Strength for Pointe Work**
 
 A preparation for pointe class is different from a regular ballet class because it is specifically designed to build the necessary strength, balance, and alignment needed for pointe work. In my pointe prep class, we focus on:
+
 - **Foot and Ankle Strength**: Through theraband exercises, relevés, and foot articulation drills, we develop the strength needed to support the body en pointe.
 - **Core Stability and Balance**: Exercises like planks, single-leg relevés, and balance drills improve core strength and stability, crucial for maintaining balance en pointe.
 - **Alignment and Turnout**: We focus on proper turnout and body alignment to ensure safety and prevent injuries, with exercises that strengthen the hips, legs, and feet.
@@ -48,4 +50,3 @@ A preparation for pointe class works in tandem with regular ballet classes. The 
 ---
 
 By focusing on specific exercises designed to strengthen the body for pointe work, my preparation for pointe class will ensure that when the time comes, students are ready to take their next step in ballet—en pointe.
-
