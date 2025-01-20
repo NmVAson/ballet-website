@@ -13,21 +13,23 @@ pagination:
   sort_reverse: true
   trail:
     before: 1 # The number of links before the current page
-    after: 3  # The number of links after the current page
+    after: 3 # The number of links after the current page
 ---
 
 <div class="post">
   {% assign blog_name_size = site.blog_name | size %}
   {% assign blog_description_size = site.blog_description | size %}
 
-  {% if blog_name_size > 0 or blog_description_size > 0 %}
+{% if blog_name_size > 0 or blog_description_size > 0 %}
+
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
 
-  {% if site.display_tags or site.display_categories %}
+{% if site.display_tags or site.display_categories %}
+
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in site.display_tags %}
@@ -50,12 +52,14 @@ pagination:
       {% unless forloop.last %}<p>&bull;</p>{% endunless %}
       {% endfor %}
     </ul>
+
   </div>
   {% endif %}
 
-  {% assign featured_posts = site.posts | where: "featured", "true" %}
-  {% if featured_posts.size > 0 %}
-  <br />
+{% assign featured_posts = site.posts | where: "featured", "true" %}
+{% if featured_posts.size > 0 %}
+<br />
+
   <div class="container featured-posts">
     {% assign is_even = featured_posts.size | modulo: 2 %}
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
@@ -93,6 +97,7 @@ pagination:
       </div>
       {% endfor %}
     </div>
+
   </div>
   <hr />
   {% endif %}
@@ -178,9 +183,11 @@ pagination:
     {% endif %}
     </li>
     {% endfor %}
+
   </ul>
 
-  {% if page.pagination.enabled %}
-  {% include pagination.liquid %}
-  {% endif %}
+{% if page.pagination.enabled %}
+{% include pagination.liquid %}
+{% endif %}
+
 </div>
