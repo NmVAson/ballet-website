@@ -1069,6 +1069,10 @@ nav[data-toggle="toc"] {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+      flex-grow: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
     }
 
     &:hover {
@@ -1078,6 +1082,13 @@ nav[data-toggle="toc"] {
         color: var(--global-theme-color);
       }
     }
+  }
+
+  .card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
   }
 
   .post-meta {
