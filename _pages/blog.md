@@ -115,14 +115,15 @@ pagination:
     {% for post in postlist %}
     <li>
       {% assign read_time = '' %}
+
 {% if post.external_source == blank %}
-  {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+{% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
 {% else %}
-  {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
+{% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
 {% endif %}
-      {% assign year = post.date | date: "%Y" %}
-      {% assign tags = post.tags | join: "" %}
-      {% assign categories = post.categories | join: "" %}
+{% assign year = post.date | date: "%Y" %}
+{% assign tags = post.tags | join: "" %}
+{% assign categories = post.categories | join: "" %}
 
       {% if post.thumbnail %}
       <div class="row">
